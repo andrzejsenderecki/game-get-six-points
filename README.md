@@ -2,6 +2,8 @@
 
 This is my first simple aplication which I wrote in Python language.
 
+![1](https://user-images.githubusercontent.com/33809996/36562088-1920cf02-1816-11e8-9bea-0f3b2aee14d5.jpg)
+
 This is a game for 2 gamers. At first gamer 1 click button "Gamer 1! Click to draw your number!" and next gamer 2 click button "Gamer 2! Click to draw your number!".
 This button draw numbers in range from -10 to 10 and add result to sum result gamer 1 or gamer 2.
 Game will win gamer wchich as first get minimum 6 points! 
